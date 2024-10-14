@@ -1,0 +1,28 @@
+{
+  "name": "my-awesome-research-software",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "California Medical Innovations Institute",
+        "type": "Organization"
+      },
+      "familyName": "Patel",
+      "id": "_:author_1",
+      "givenName": "Bhavesh",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/bvhpatel/my-awesome-research-software",
+  "dateCreated": "2024-10-14",
+  "description": "Awesome software",
+  "issueTracker": "https://github.com/bvhpatel/my-awesome-research-software/issues",
+  "keywords": [],
+  "license": "https://spdx.org/licenses/MIT",
+  "operatingSystem": [],
+  "programmingLanguage": [],
+  "relatedLink": [],
+  "runtimePlatform": [],
+  "softwareRequirements": [],
+  "type": "SoftwareSourceCode"
+}
