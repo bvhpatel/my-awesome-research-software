@@ -6,7 +6,9 @@ authors:
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
+doi: 10.64364/test.1
 abstract: Awesome software
-keywords: []
+keywords:
+  - ""
 license: MIT
 repository-code: https://github.com/bvhpatel/my-awesome-research-software
