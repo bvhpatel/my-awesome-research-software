@@ -6,11 +6,9 @@ authors:
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
-doi: 10.5281/zenodo.13936968
+doi: 10.64364/test.1
 abstract: Awesome software
 keywords:
-  - ''
-license: MIT
+  - ""
+license: https://spdx.org/licenses/MIT
 repository-code: https://github.com/bvhpatel/my-awesome-research-software
-date-released: '2024-10-15'
-version: 1.0.3
