@@ -15,19 +15,17 @@
   ],
   "codeRepository": "https://github.com/bvhpatel/my-awesome-research-software",
   "dateCreated": "2024-10-14",
+  "dateModified": "2024-10-15",
   "description": "Awesome software",
   "identifier": "10.5281/zenodo.13936968",
   "issueTracker": "https://github.com/bvhpatel/my-awesome-research-software/issues",
   "keywords": [
-    ""
+    "test"
   ],
   "license": "https://spdx.org/licenses/MIT",
-  "operatingSystem": [],
-  "programmingLanguage": [],
-  "relatedLink": [],
-  "runtimePlatform": [],
-  "softwareRequirements": [],
-  "type": "SoftwareSourceCode",
+  "programmingLanguage": [
+    "Python 3"
+  ],
   "version": "1.0.3",
-  "dateModified": "2024-10-15"
+  "type": "SoftwareSourceCode"
 }
