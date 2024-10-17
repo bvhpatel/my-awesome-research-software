@@ -9,8 +9,8 @@ type: software
 doi: 10.5281/zenodo.13936968
 abstract: Awesome software
 keywords:
-  - ''
+  - test
 license: MIT
 repository-code: https://github.com/bvhpatel/my-awesome-research-software
-date-released: '2024-10-15'
+date-released: 2024-10-15
 version: 1.0.3
